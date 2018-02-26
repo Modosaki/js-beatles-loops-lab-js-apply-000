@@ -38,5 +38,5 @@ function iLoveTheBeatles(number) {
  while (i <= number)
 
 return text;
- if (number===17) 
+if (number===17) {return }
 }
