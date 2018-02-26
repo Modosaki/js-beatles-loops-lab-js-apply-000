@@ -36,6 +36,7 @@ function iLoveTheBeatles(number) {
  }
  
  while (i <= number);
+ if (number<15) {return 'I love the Beatles!'}
 return text
 
 }
