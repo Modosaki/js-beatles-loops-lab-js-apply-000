@@ -36,7 +36,7 @@ function iLoveTheBeatles(number) {
  }
  
  while (i <= number)
-if (number===17){text+= 'i love the Beatles!'}
-return text;
+if (number < 17)
+{return text}
 
 }
